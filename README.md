@@ -1,36 +1,20 @@
-![Banner](https://github.com/DiegoCruzzz/DiegoCruzzz/blob/main/1733257932915.jpg)
+![Banner](./linkedin_banner.png)
 
-# 👋 ¡Hola! Soy Diego Cruz
+# 👋 ¡Hola! Soy Diego Barajas Cruz
 
-**Desarrollador de software especializado en aplicaciones web** con experiencia en **React**, **JavaScript**, **Python (Flask)** y **SQL (SQLAlchemy)**. Me apasiona crear aplicaciones interactivas, optimizar experiencias de usuario y conectar de manera eficiente el front-end con el back-end.
+Vivo en la intersección entre el **software** y el **hardware**: desarrollo full-stack, agentes de IA, electrónica y diseño mecánico. Estudio Ingeniería en Robótica Industrial en el IPN y colaboro en Hypernova Aerospace.
 
----
+## 🛠️ Con qué trabajo
+- **Software:** JavaScript, React, Next.js, Python (Flask, FastAPI), SQL, PostgreSQL, Node.js
+- **IA y automatización:** agentes de IA, automatización de procesos, n8n
+- **Hardware y diseño:** ESP32, Raspberry Pi, diseño de PCB (Altium), SolidWorks, Fusion 360
+- **Infra:** Docker, Proxmox, homelab propio
 
-## 🚀 Sobre mí
+## 🚀 Proyectos
+- **[Numsa](https://github.com/DiegoCruzzz/numsa):** app de finanzas personales (FastAPI, PostgreSQL, Redis, Next.js)
+- **[CocinArte](https://github.com/DiegoCruzzz/cocinArte):** plataforma para compartir y calificar recetas (React + Flask, proyecto en equipo — [TU PARTE EN UNA LÍNEA])
 
-- 💻 **Habilidades principales**:
-  - **Frontend**: JavaScript (React, DOM), HTML, CSS, Bootstrap.
-  - **Backend**: Python (Flask), SQL, SQLAlchemy.
-  - **Otros**: Git, APIs RESTful.
-- 📌 **Enfoque**: Desarrollo full-stack y mejora constante del rendimiento web.
-- 🌱 **Proyectos actuales**:
-  - [CocinArte 🍳](https://github.com/DiegoCruzzz/cocinArte): Plataforma interactiva para compartir y calificar recetas.
+## 🌐 Contacto
+[LinkedIn](https://www.linkedin.com/in/diego-sebastian-barajas-cruz) · [Correo](mailto:w.diegocruz@gmail.com)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoCruzzz&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCruzzz&layout=compact&theme=dracula)
-
----
-
-## 🌐 Conéctate conmigo
-
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/diego-sebastian-barajas-cruz)  
-- 📧 **Correo**: [w.diegocruz@gmail.com](mailto:w.diegocruz@gmail.com)  
-- 🐱 **GitHub**: [DiegoCruzzz](https://github.com/DiegoCruzzz)
-
----
-
-¡Gracias por visitar mi perfil! Si quieres colaborar o tienes alguna oportunidad, no dudes en escribirme. 🚀
+Si tienes un proyecto en mente, ¡platiquemos! 🚀
